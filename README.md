@@ -1,6 +1,7 @@
 # task5-mech
 # Forward Kinematics for a 2-Link Robot Arm
  based on the joint angles (𝜃₁ and 𝜃₂) and link lengths (𝐿₁ and 𝐿₂).
+![‫مسار الهندسة الميكانيكة - 5 - YouTube - Google Chrome‬ 2_13_2025 5_14_12 PM](https://github.com/user-attachments/assets/93edde06-8ba8-47fd-a67a-9c43b11a6a70)
 
 ## Given Data:
 - **𝐿₁ = 10 cm** (length of the first link)
